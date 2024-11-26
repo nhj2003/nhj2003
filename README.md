@@ -1,7 +1,5 @@
 ## My name is Nathan Jung
 
-Here are some skills that I am experienced in.
-
 - 🔭 I’m currently working on case study projects as well as improving my data visualization skills.
 - 🌱 I’m currently attempting to master Power BI and Tableau.
 - 🤔 I’m looking for help with advice on areas I appear to be lacking.
